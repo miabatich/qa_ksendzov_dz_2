@@ -1,5 +1,5 @@
 Домашная работа №2
-Home work for GitHub )
+Home work for GitHub
 1. На локальном репозитории сделать ветки для:
 - Postman
 - Jmeter
